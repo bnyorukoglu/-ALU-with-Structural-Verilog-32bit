@@ -1,0 +1,55 @@
+Quartus II Archive log --	C:/Users/Bengi/Desktop/131044046/131044046.qarlog
+
+Archive:	C:/Users/Bengi/Desktop/131044046/131044046.qar
+Date:		Fri Nov 16 15:27:21 2018
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/alu32.qpf
+C:/altera/13.1/alu32.qsf
+C:/altera/13.1/alu32.v
+C:/altera/13.1/db/alu32.cmp.hdb
+C:/altera/13.1/db/alu32.db_info
+C:/altera/13.1/incremental_db/compiled_partitions/alu32.db_info
+C:/altera/13.1/workspace/alu32/alu32.v
+C:/altera/13.1/workspace/alu32/alu32_testbench.v
+C:/altera/13.1/workspace/alu32/and_32bit.v
+C:/altera/13.1/workspace/alu32/and_32bit_testbench.v
+C:/altera/13.1/workspace/alu32/and_4input.v
+C:/altera/13.1/workspace/alu32/and_4input_testbench.v
+C:/altera/13.1/workspace/alu32/fulladder.v
+C:/altera/13.1/workspace/alu32/fulladder_32bit.v
+C:/altera/13.1/workspace/alu32/fulladder_32bit_testbench.v
+C:/altera/13.1/workspace/alu32/halfadder.v
+C:/altera/13.1/workspace/alu32/mux_1bit.v
+C:/altera/13.1/workspace/alu32/mux_1bit_testbench.v
+C:/altera/13.1/workspace/alu32/mux_2input.v
+C:/altera/13.1/workspace/alu32/mux_32bit.v
+C:/altera/13.1/workspace/alu32/mux_32bit_testbench.v
+C:/altera/13.1/workspace/alu32/nor_32bit.v
+C:/altera/13.1/workspace/alu32/nor_32bit_testbench.v
+C:/altera/13.1/workspace/alu32/or_32bit.v
+C:/altera/13.1/workspace/alu32/or_32bit_testbench.v
+C:/altera/13.1/workspace/alu32/sl_module.v
+C:/altera/13.1/workspace/alu32/sl_module_testbench.v
+C:/altera/13.1/workspace/alu32/sra_module.v
+C:/altera/13.1/workspace/alu32/sra_module_testbench.v
+C:/altera/13.1/workspace/alu32/xor_32bit.v
+C:/altera/13.1/workspace/alu32/xor_32bit_testbench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 32 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Nov 16 15:28:02 2018
+Source archive file:	C:/Users/Bengi/Desktop/131044046/131044046.qar
+Archive was extracted into	C:/Users/Bengi/Desktop/131044046/131044046_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Sun Nov 18 13:38:21 2018
+Source archive file:	C:/Users/Bengi/Desktop/verilog32bitAlu/131044046/131044046.qar
+Archive was extracted into	C:/Users/Bengi/Desktop/verilog32bitAlu/131044046/131044046_restored/
+		 - successfully.
